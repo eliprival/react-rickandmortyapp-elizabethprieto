@@ -33,7 +33,7 @@ function App() {
           <>
             <header className="app__header">
               <img
-                src="../public/assets/Header Rick and Morty.PNG"
+                src="../assets/Header Rick and Morty.PNG"
                 alt="imagen de Rick and Morty"
               />
             </header>
