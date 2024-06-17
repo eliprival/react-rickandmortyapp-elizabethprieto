@@ -43,7 +43,7 @@ function App() {
                 ref={textInput}
                 type="number"
               />
-              <button className="app__form-btn">Search</button>
+              <button className="app__form-btn">Search for location Id</button>
             </form>
             {hasError ? (
               <h2>❌Hey! you must provide an Id from 1 to 126 😔</h2>
